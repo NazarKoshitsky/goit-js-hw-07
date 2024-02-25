@@ -1,0 +1,29 @@
+#name-input,
+#name-input:active {
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: 1px solid #808080;
+  margin-bottom: 16px;
+  color: #2e2f42;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  width: 360px;
+  outline: transparent;
+}
+h1 {
+  margin: 0;
+  color: #2e2f42;
+  font-family: "Montserrat";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: 0.96px;
+}
+#name-input:hover {
+  border: 1px solid #000;
+}
